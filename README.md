@@ -1,3 +1,5 @@
-## Scratch Controls
+# Scratch Controls
 
-Docs coming soon
+Powered by [ScratchConnect](https://github.com/Sid72020123/scratchconnect)
+
+*Docs coming soon*
